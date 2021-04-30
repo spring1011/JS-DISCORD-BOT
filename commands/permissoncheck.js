@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 
 module.exports = {
-    name: "ping",
+    name: "prcheck",
 
     async run (client, message, args) { 
         
